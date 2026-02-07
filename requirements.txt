@@ -1,0 +1,8 @@
+dramatiq[redis]     
+docling             
+python-dotenv      
+pymupdf            
+watchdog           
+torch      
+torchvision
+onnxruntime
